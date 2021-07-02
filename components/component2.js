@@ -1,0 +1,1 @@
+export const component2 = () => console.log('Component 2');
